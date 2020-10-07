@@ -1,0 +1,25 @@
+div.dodaj {
+    display: inline;
+}
+div.dodaj button {
+          
+       
+         text-transform: uppercase;
+         
+         width: 12%;
+         font-size: 18px;
+         border: black 3px solid;
+         background-color: white;
+         transition: 0.5s;
+     }
+     
+     div.dodaj button:hover {
+         background-color: black;
+         color: white;
+     }
+     div.dodaj input {
+         width: 20%;
+         height: 5vh;
+         font-size: 18px;
+     }
+     

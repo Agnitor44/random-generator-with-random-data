@@ -1,0 +1,9 @@
+div.frame {
+    position: relative;
+    border: 7px solid #999;
+    width: 70%;
+    height: 70vh;
+    left: 15%;
+    top: 15%;
+    overflow: scroll;
+}

@@ -1,0 +1,15 @@
+ div.panel button {
+   margin: 4%;
+    text-transform: uppercase;
+    height: 8vh;
+    width: 20%;
+    font-size: 30px;
+    border: black 3px solid;
+    background-color: white;
+    transition: 0.5s;
+}
+
+ div.panel button:hover {
+    background-color: black;
+    color: white;
+}

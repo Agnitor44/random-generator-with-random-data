@@ -1,0 +1,12 @@
+div.plec {
+    display: inline;
+}
+
+div.plec input {
+width: 2%;
+height: 15px;
+
+}
+div.plec label {
+margin: 2%;
+}
